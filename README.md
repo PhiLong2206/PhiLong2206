@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/97f1d864-2c31-4ad4-972c-a4e8f7f7eff7)
-" width="150" alt="PhiLong Avatar" />
-</p>
 
 # 👋 Hi there! I'm PhiLong2206
 
